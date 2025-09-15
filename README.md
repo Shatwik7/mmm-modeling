@@ -2,7 +2,13 @@
 
 This project implements a Marketing Mix Modeling (MMM) pipeline in Python to analyze the impact of multiple marketing channels on revenue.
 
----
+## Model Performance
+
+Performance (5-fold time series CV):
+- **RMSE:** 0.375 ± 0.092
+- **MAE:** 0.308 ± 0.079
+- **MAPE:** 0.039 ± 0.018
+- **R²:** 0.974 ± 0.009
 
 ## Pipeline Stages
 
